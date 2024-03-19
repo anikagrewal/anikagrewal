@@ -3,10 +3,10 @@
  
 
   <a href="https://www.linkedin.com/in/anika-grewal-516712262">
-  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=4E738A"/></a>
 
   <a href="https://github.com/anikagrewal">
-  <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/TrevisanGMW?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
+  <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/anikagrewal?color=%ffdd93&labelColor=C79600&style=for-the-badge&logo=github&label=Follow"/></a>
 
  
   <br><br>
@@ -23,9 +23,9 @@
 <p>
 <br>
 <img align='right' src='./media/octocat_bsod.png' width='200"'>
-<a href="https://github.com/search?q=user%3Aanikagrewal+language%3Atypescript"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-14354C.svg?logo=python&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3Aanikagrewal+language%3Atypescript"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-14354C.svg?logo=typescript&logoColor=blue"></a>
 
-<a href="https://github.com/search?q=user%3Aanikagrewal+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+<a href="https://github.com/search?q=user%3Aanikagrewal+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=yellow"></a>
 
 <a href="https://github.com/search?q=user%3Aanikagrewal+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 
