@@ -1,6 +1,7 @@
 <h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello, I'm Anika!</h2>
 <p align="center">
- 
+ ![waving-hand](https://github.com/anikagrewal/anikagrewal/assets/113273246/c4340243-517a-4136-be6c-bb37e1cce85b)
+
 
   <a href="https://www.linkedin.com/in/anika-grewal-516712262">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-DDECF9.svg?&style=for-the-badge&logo=linkedin&logoColor=4E738A"/></a>
