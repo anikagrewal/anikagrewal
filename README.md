@@ -4,13 +4,13 @@
 
   <a href="https://www.linkedin.com/in/anika-grewal-516712262">
   <img alt="linkedin" title="Linkedin Profile" src="https://img.shields.io/badge/linkedin-DDECF9.svg?&style=for-the-badge&logo=linkedin&logoColor=4E738A"/></a>
+    <a href="https:/.anikagray.ca">
+  <img alt="portoflio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-DDECF9.svg?&style=for-the-badge"/></a>
 
   <a href="https://github.com/anikagrewal">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/anikagrewal?color=ffdd93&labelColor=4E738A&style=for-the-badge&logo=github&label=Follow"/></a>
+
   
-  <a href="https://anikagray.ca/">
-    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" target="_blank" src="https://img.shields.io/badge/Portfolio%4E738A-Anika%20's%20Website-ffdd93">
-  </a>
  
   <br><br>
 </p>
