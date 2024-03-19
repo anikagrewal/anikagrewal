@@ -1,4 +1,4 @@
-<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello! I'm Anika!</h2>
+<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello, I'm Anika!</h2>
 <p align="center">
  
 
