@@ -1,6 +1,5 @@
-<h2 align="center"><img src="./media/waving-hand.gif" width="28"> Hello, I'm Anika!</h2>
+<h2 align="center"><img src="./media/waving-hand.gif" width="28"> 👋 Hello, I'm Anika!</h2>
 <p align="center">
- ![waving-hand](https://github.com/anikagrewal/anikagrewal/assets/113273246/c4340243-517a-4136-be6c-bb37e1cce85b)
 
 
   <a href="https://www.linkedin.com/in/anika-grewal-516712262">
@@ -8,6 +7,10 @@
 
   <a href="https://github.com/anikagrewal">
   <img alt="github followers" title="Follow me on Github" src="https://img.shields.io/github/followers/anikagrewal?color=ffdd93&labelColor=4E738A&style=for-the-badge&logo=github&label=Follow"/></a>
+  
+    <a href="https://anikagray.ca/">
+    <img alt="YouTube Channel Views" title="Subscribe to my YouTube channel" target="_blank" src="https://img.shields.io/badge/Portfolio4E738A-Anika%20's%20Website-ffdd93">
+  </a>
 
  
   <br><br>
@@ -45,12 +48,6 @@
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="#"><img alt="TailwindCss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 <a href="#"><img alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-
-
-
-
-
-
 
 <br>
 </p>
