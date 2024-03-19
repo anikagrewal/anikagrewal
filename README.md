@@ -22,7 +22,7 @@
 <h2 align='left'> 🔨 Technologies & Tools </h2>
 <p>
 <br>
-<img align='right' src='./media/octocat_bsod.png' width='200"'>
+
 <a href="https://github.com/search?q=user%3Aanikagrewal+language%3Atypescript"><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-14354C.svg?logo=typescript&logoColor=blue"></a>
 
 <a href="https://github.com/search?q=user%3Aanikagrewal+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=yellow"></a>
